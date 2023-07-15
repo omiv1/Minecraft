@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2020-12-22 20:13:06 +0100",
+      "minecraft:snowy_tundra": "2020-12-22 20:07:45 +0100",
+      "minecraft:frozen_river": "2020-12-22 20:16:17 +0100",
+      "minecraft:river": "2020-12-22 20:13:16 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

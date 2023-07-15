@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-10-01 01:50:32 +0200",
+      "minecraft:river": "2022-10-01 01:46:30 +0200",
+      "minecraft:forest": "2022-10-01 01:46:37 +0200",
+      "minecraft:ocean": "2022-10-01 01:50:33 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
